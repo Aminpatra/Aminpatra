@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 👋 Hi, I’m @Aminpatra
 👀 I’m interested in **Machine Learning, Competitive Programming, and Web Development**.
