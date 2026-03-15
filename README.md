@@ -35,14 +35,6 @@ My focus is on **machine learning, data structures & algorithms, and full-stack 
 - Problems solved: **414+**
 - Longest solving streak: **26 days**
 
-Practicing:
-
-- Data Structures
-- Algorithms
-- Greedy
-- Dynamic Programming
-- Problem solving strategies
-
 ---
 
 ### ⚔ Coding Practice Platforms
