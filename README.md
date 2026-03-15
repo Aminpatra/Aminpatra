@@ -42,6 +42,7 @@ My focus is on **machine learning, data structures & algorithms, and full-stack 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/aminpatra)
 
 - Top 2.943%
+
 Practice platform for **algorithmic challenges and kata-based programming**.
 
 ---
