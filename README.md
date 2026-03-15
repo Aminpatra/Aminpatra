@@ -2,17 +2,24 @@
 
 💻 **Machine Learning Enthusiast | Competitive Programmer | Web Developer**
 
-I enjoy building projects, solving algorithmic problems, and learning how machine learning systems work under the hood.  
-My focus is on **machine learning, data structures & algorithms, and full-stack development.**
+I enjoy building intelligent systems, solving algorithmic problems, and developing scalable web applications.  
+My focus is on **Machine Learning, Data Structures & Algorithms, and Full-Stack Development.**
 
 ---
 
 # 🚀 About Me
 
 - 👀 Interested in **Machine Learning, Competitive Programming, and Web Development**
-- 🌱 Currently learning **Machine Learning algorithms and advanced ML libraries**
+- 🌱 Currently learning **advanced ML algorithms and deep learning frameworks**
 - 🧠 Practicing **algorithmic problem solving and ML challenges**
-- 🤝 Open to collaborating on **real-world software and AI projects**
+- ⚡ Love building **real-world AI applications**
+- 🤝 Open to collaborating on **AI, ML, and full-stack projects**
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=aminpatra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -27,9 +34,11 @@ My focus is on **machine learning, data structures & algorithms, and full-stack 
 
 # 🧠 Competitive Programming
 
+### Codeforces
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aminpatra)
 
-**Codeforces Stats**
+**Stats**
 
 - Rating: **774 (max 969)**
 - Problems solved: **414+**
@@ -37,19 +46,42 @@ My focus is on **machine learning, data structures & algorithms, and full-stack 
 
 ---
 
-### ⚔ Coding Practice Platforms
+### Codewars
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/aminpatra)
 
-- Top 2.943%
+- **Top 2.943% globally**
 
-Practice platform for **algorithmic challenges and kata-based programming**.
+Focused on **algorithmic kata and problem solving.**
 
 ---
 
+### Deep-ML
+
 [![Deep-ML](https://img.shields.io/badge/Deep--ML-Machine%20Learning-blue?style=for-the-badge)](https://www.deep-ml.com/profile/Qya8VKg2rKafoapimqVJm5jdhW22)
 
-Platform focused on **machine learning coding problems, ML algorithms, and mathematical foundations of AI.**
+Practice platform for **machine learning coding challenges and mathematical ML foundations.**
+
+---
+
+# 🤖 Machine Learning Projects
+
+Here are some types of ML systems I enjoy building:
+
+- 📊 **Data Analysis & Visualization**
+- 🧠 **Supervised Learning Models**
+- 🤖 **Deep Learning Applications**
+- 🔍 **Machine Learning pipelines**
+- 📈 **Predictive analytics systems**
+
+Example project ideas:
+
+| Project | Description | Tech |
+|------|-------------|------|
+| ML Prediction Model | Predictive system using supervised learning | Python, Scikit-Learn |
+| Data Visualization Dashboard | Interactive ML data visualization | Pandas, Plotly |
+| Neural Network Classifier | Deep learning classification model | PyTorch / TensorFlow |
+| Feature Engineering Pipeline | ML preprocessing automation | Python |
 
 ---
 
@@ -93,9 +125,15 @@ Platform focused on **machine learning coding problems, ML algorithms, and mathe
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aminpatra&theme=react-dark)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/aminpatra/aminpatra/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
