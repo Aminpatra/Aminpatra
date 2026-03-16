@@ -137,10 +137,4 @@ Example project ideas:
 
 ---
 
-# 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=Aminpatra&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ⭐ From [Aminpatra](https://github.com/aminpatra)
