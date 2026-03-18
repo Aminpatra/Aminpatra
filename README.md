@@ -17,12 +17,6 @@ My focus is on **Machine Learning, Data Structures & Algorithms, and Full-Stack 
 
 ---
 
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=aminpatra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 # 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aminpatra_0)
